@@ -20,4 +20,11 @@
  
  3.Types:
   Topics:
+  i.Primative data types
+  ii. default datatype of vars
+  iii.Adding explicit datatype
+  iv.Boolean
+  v.Getting Bool from experssion
+  vi.Characters
+  Note:Rust is a statically types langauage,which means that it must know the types of all variables at compile time,however, the compiler can usally inferr what type we       want to use based on the valye and how we use it
   
