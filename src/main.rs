@@ -8,7 +8,8 @@ use std::string;
 // mod array;
 // mod vectors;
 // mod conditionals;
-mod loops;
+// mod loops;
+mod function;
 
 fn main() {
     // print::run();
@@ -19,5 +20,6 @@ fn main() {
     // array::run();
     // vectors::run();
     // conditionals::run();
-    loops::run();
+    // loops::run();
+    function::run();
 }
