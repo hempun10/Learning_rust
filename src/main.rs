@@ -7,7 +7,8 @@ use std::string;
 // mod tuples;
 // mod array;
 // mod vectors;
-mod conditionals;
+// mod conditionals;
+mod loops;
 
 fn main() {
     // print::run();
@@ -17,5 +18,6 @@ fn main() {
     // tuples::run();
     // array::run();
     // vectors::run();
-    conditionals::run();
+    // conditionals::run();
+    loops::run();
 }
