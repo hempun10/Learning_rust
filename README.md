@@ -1,5 +1,15 @@
 # Learning_rust
+Cargo: the Rust build tool and package manager
+When you install Rustup you’ll also get the latest stable version of the Rust build tool and package manager, also known as Cargo. Cargo does lots of things:
 
+build your project with cargo build
+run your project with cargo run
+test your project with cargo test
+build documentation for your project with cargo doc
+publish a library to crates.io with cargo publish
+To test that you have Rust and Cargo installed, you can run this in your terminal of choice:
+
+cargo --version
 1. Basic on println 
   Topics:
   i. print to console 
@@ -27,4 +37,15 @@
   v.Getting Bool from experssion
   vi.Characters
   Note:Rust is a statically types langauage,which means that it must know the types of all variables at compile time,however, the compiler can usally inferr what type we       want to use based on the valye and how we use it
+  
+  4. String:
+    Topics:
+    i. Diff betn Imitative str and String
+    ii. Declearing string
+    iii. Get length
+    iv.Push char and string
+    v. Checking capacity and empty or not
+    vi Replace and conatins
+    vii.Looping through whitespace
+    viii.Assertion testing
   
