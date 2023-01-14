@@ -1,4 +1,4 @@
-use std::string;
+// use std::string;
 
 // mod print;
 // mod vars;
@@ -9,7 +9,9 @@ use std::string;
 // mod vectors;
 // mod conditionals;
 // mod loops;
-mod function;
+// mod function;
+// mod pointer_ref;
+mod match_condition;
 
 fn main() {
     // print::run();
@@ -21,5 +23,7 @@ fn main() {
     // vectors::run();
     // conditionals::run();
     // loops::run();
-    function::run();
+    // function::run();
+    // pointer_ref::run();
+    match_condition::run();
 }
