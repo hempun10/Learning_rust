@@ -12,7 +12,9 @@
 // mod function;
 // mod pointer_ref;
 // mod match_condition;
-mod struct_class;
+// mod struct_class;
+// mod traits_rust;
+mod hasmaps;
 
 fn main() {
     // print::run();
@@ -27,5 +29,7 @@ fn main() {
     // function::run();
     // pointer_ref::run();
     // match_condition::run();
-    struct_class::run();
+    // struct_class::run();
+    // traits_rust::run();
+    hasmaps::run();
 }
