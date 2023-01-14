@@ -11,7 +11,8 @@
 // mod loops;
 // mod function;
 // mod pointer_ref;
-mod match_condition;
+// mod match_condition;
+mod struct_class;
 
 fn main() {
     // print::run();
@@ -25,5 +26,6 @@ fn main() {
     // loops::run();
     // function::run();
     // pointer_ref::run();
-    match_condition::run();
+    // match_condition::run();
+    struct_class::run();
 }
